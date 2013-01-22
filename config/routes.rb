@@ -3,6 +3,8 @@ Escola::Application.routes.draw do
 
   get "static_pages/contactos"
 
+  get "static_pages/sobre"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
